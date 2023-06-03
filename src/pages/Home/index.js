@@ -29,6 +29,7 @@ const list = [
     type: 1
   },
 ]
+
 export default function App() {
   return (
     <View style={styles.container}>
